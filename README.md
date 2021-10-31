@@ -11,5 +11,5 @@ The dataset is collected from UCI Machine learning Repository.
 5. Show a tree diagram of the Decision Tree
 6. Show the Confusion Matrix, Classification report, and ROC-AUC.
 
-## References:
+## Reference:
 Dataset source: https://archive.ics.uci.edu/ml/datasets/heart+disease
