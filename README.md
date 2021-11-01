@@ -2,7 +2,7 @@
 This repository will predict the heart disease patients by using Mechine Learning tools.
 # What the project is about?
 The objective of this project is to apply the Supervised Learning: Decision Tree in the Heart Disease Dataset.
-The dataset is collected from UCI Machine learning Repository.
+<br> The dataset is collected from __UCI Machine learning Repository__.
 # Codes
 1. Deal with the missing values
 2. Perform One-hot Encoding
